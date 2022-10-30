@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="hint">Enter a num</string>
+    <string name="addButton">+</string>
+    <string name="subButton">-</string>
+    <string name="mulButton">*</string>
+    <string name="divButton">/</string>
+    <string name="backButton">Perform Another Calculation</string>
+</resources>
+
